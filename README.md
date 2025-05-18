@@ -20,3 +20,7 @@ Porting Clay Soldiers from b1.7.3/1.7.10/1.12 to 1.21+
 # Contributions
 
 Special Thanks to @TrustNoOneElse for Upgrade Interface and related code
+
+NOTES TO SELF
+
+Every file that calls getTeam change it to getCustomTeam
